@@ -1,3 +1,5 @@
+Ante cualquier duda o problema no duden en contactarme: joacovasquez0@gmail.com
+
 Proyecto de Reconocimiento Facial en Flask
 
 Este proyecto implementa una aplicación web utilizando Flask que permite registrar rostros, almacenar imágenes de los mismos y realizar la detección y comparación de rostros en tiempo real a través de la cámara. Está basado en la librería face_recognition para la detección y comparación de rostros.
