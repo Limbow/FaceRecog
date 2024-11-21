@@ -1,3 +1,4 @@
+**Quiero aclarar que el archivo app.py es la version web y el archivo testOpenCV.py es la version escritorio**
 Ante cualquier duda o problema no duden en contactarme: joacovasquez0@gmail.com
 
 Proyecto de Reconocimiento Facial en Flask
